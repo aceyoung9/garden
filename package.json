@@ -1,21 +1,21 @@
 {
-  "name": "eleventy-garden",
+  "name": "garden",
   "version": "1.0.0",
   "description": "A starter site for building a mind garden in eleventy.",
+  "author": "Ace Young",
   "scripts": {
     "start": "eleventy --serve",
     "compile": "eleventy"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/binyamin/eleventy-garden.git"
+    "url": "git+https://github.com/aceyoung9/garden.git"
   },
-  "keywords": [],
-  "author": "Binyamin Aron Green (https://binyam.in/)",
+  "keywords": [
+    "digital garden",
+    "eleventy"
+  ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/binyamin/eleventy-garden/issues"
-  },
   "homepage": "https://github.com/binyamin/eleventy-garden#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
