@@ -39,16 +39,10 @@ module.exports = {
 
           return linksInNote.includes(currentFileSlug);
         })
-        .map((n) => {
-          // Construct return object
-          const noteContent = stripYaml(n.template.inputContent);
-
-          return {
-            url: n.url,
-            title: n.data.title || titleCase(path.basename(n.filePathStem)),
-            preview: noteContent,
-          };
-        });
+        .map((n) => ({
+          url: n.url,
+          title: n.data.title || titleCase(path.basename(n.filePathStem)),
+        }));
     },
   },
 };
