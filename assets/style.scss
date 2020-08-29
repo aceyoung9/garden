@@ -1,6 +1,6 @@
 :root {
   --accent: #6257b2;
-  --grey: #444;
+  --grey: #555;
 }
 
 html {
@@ -110,6 +110,11 @@ h5,
 
 small {
   font-size: 0.8em;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #aaa;
 }
 
 @import "./scss/backlinks";
