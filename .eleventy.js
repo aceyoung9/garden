@@ -1,4 +1,8 @@
+const pluginSass = require("eleventy-plugin-sass");
+
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(pluginSass, {});
+
   const markdownIt = require("markdown-it");
   const markdownItOptions = {
     html: true,

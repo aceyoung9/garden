@@ -1,5 +1,5 @@
 :root {
-  --accent: #2d9cdb;
+  --accent: #6257b2;
   --grey: #444;
 }
 
@@ -112,17 +112,4 @@ small {
   font-size: 0.8em;
 }
 
-/* backlinks */
-.backlinks-title {
-  margin-bottom: 0;
-}
-
-.backlinks-container {
-  margin-top: 0;
-}
-
-.backlinks-default {
-  margin-top: 0;
-  margin-left: 16px;
-  color: var(--grey);
-}
+@import "./scss/backlinks";

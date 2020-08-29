@@ -25,5 +25,8 @@
     "markdown-it-footnote": "^3.0.2",
     "prettier": "2.0.5",
     "title-case": "^3.0.2"
+  },
+  "dependencies": {
+    "eleventy-plugin-sass": "^1.0.0"
   }
 }
