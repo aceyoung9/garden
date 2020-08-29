@@ -1,0 +1,11 @@
+{% if allNotes.length > 0%}
+<ul class="backlinks-container">
+  {% for link in allNotes %}
+  <li class="backlink">
+    <a href="{{link.url}}" class="backlink__link">{{link.title}}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="backlinks-default">No links found.</p>
+{% endif %}

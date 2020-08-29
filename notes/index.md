@@ -1,5 +1,6 @@
 ---
 title: About these notes
+layout: notes-index
 ---
 
-# About these Notes
+# All Notes

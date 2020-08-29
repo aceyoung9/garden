@@ -6,6 +6,16 @@ module.exports = {
   type: "note",
   eleventyComputed: {
     title: (data) => titleCase(data.page.fileSlug),
+    allNotes: (data) => {
+      const notes = data.collections.notes;
+
+      return notes
+        .filter((n) => n.data.layout === "note.html")
+        .map((n) => ({
+          url: n.url,
+          title: n.data.title || titleCase(path.basename(n.filePathStem)),
+        }));
+    },
     backlinks: (data) => {
       const notes = data.collections.notes;
       const currentFileSlug = data.page.fileSlug;
