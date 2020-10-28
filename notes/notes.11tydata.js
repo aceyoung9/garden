@@ -13,7 +13,10 @@ module.exports = {
         .filter((n) => n.data.layout === "note.html")
         .map((n) => ({
           url: n.url,
-          title: n.data.title || titleCase(path.basename(n.filePathStem)),
+          title:
+            n.template.frontMatter.data.title ||
+            n.data.title ||
+            titleCase(path.basename(n.filePathStem)),
         }));
     },
     backlinks: (data) => {
