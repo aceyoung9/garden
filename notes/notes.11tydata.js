@@ -17,7 +17,19 @@ module.exports = {
             n.template.frontMatter.data.title ||
             n.data.title ||
             titleCase(path.basename(n.filePathStem)),
-        }));
+        }))
+        .sort((a, b) => {
+          const aTitle = a.title.toLowerCase();
+          const bTitle = b.title.toLowerCase();
+
+          if (aTitle < bTitle) {
+            return -1;
+          } else if (aTitle > bTitle) {
+            return 1;
+          } else {
+            return 0;
+          }
+        });
     },
     backlinks: (data) => {
       const notes = data.collections.notes;
