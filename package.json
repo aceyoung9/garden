@@ -2,11 +2,11 @@
   "name": "garden",
   "version": "1.0.0",
   "description": "A starter site for building a mind garden in eleventy.",
-  "author": "Ace Young",
+  "author": "Ace Young <aceyoung.289@gmail.com>",
   "scripts": {
     "start": "eleventy --serve",
     "compile": "eleventy",
-    "deploy": "gh-pages -d _site"
+    "deploy": "eleventy && gh-pages -d _site"
   },
   "repository": {
     "type": "git",
