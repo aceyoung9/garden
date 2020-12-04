@@ -2,7 +2,7 @@
   "name": "garden",
   "version": "1.0.0",
   "description": "A starter site for building a mind garden in eleventy.",
-  "author": "Ace Young <aceyoung.289@gmail.com>",
+  "author": "Ace Young <ace.young289@gmail.com>",
   "scripts": {
     "start": "eleventy --serve",
     "compile": "eleventy",
