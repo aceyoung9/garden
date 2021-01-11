@@ -1,0 +1,1 @@
+- [https://ethicaldesign.guide/](Ethical Design Guide)
