@@ -10,6 +10,11 @@
 - [Pokemon names in Taiwanese](https://itaigi.tw/tsu-te/pho-khi-bong)
 - [iTaiGi](https://itaigi.tw/) - Dictionary with audio pronounciations
 
+### Discourse
+
+- https://ketagalanmedia.com/2019/08/27/as-taiwans-identity-shifts-can-the-taiwanese-language-return-to-prominence/
+- https://repository.upenn.edu/cgi/viewcontent.cgi?article=1212&context=wpel
+
 ## Transit
 
 - A map of all transit systems of Taiwan, merged into a single diagram. Created by [Himawari Design Lab](https://47rail.jp)
