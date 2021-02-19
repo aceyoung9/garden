@@ -4,17 +4,7 @@
 
 - [《原轉會各民族代表：台灣原住民族致中國習近平主席》鄉民英譯版 Indigenous Peoples of Taiwan to President Xi Jinping of China](https://g0v.hackmd.io/@chihao/SyKTh6bM4)
 
-## Taiwanese Language
-
-- [Dictionary of Frequently Used Taiwan Minnan](https://twblg.dict.edu.tw/holodict_new/)
-- [Pokemon names in Taiwanese](https://itaigi.tw/tsu-te/pho-khi-bong)
-- [iTaiGi](https://itaigi.tw/) - Dictionary with audio pronounciations
-- http://ip194097.ntcu.edu.tw/memory/tgb/thak.asp?id=862&page=1
-
-### Discourse
-
-- https://ketagalanmedia.com/2019/08/27/as-taiwans-identity-shifts-can-the-taiwanese-language-return-to-prominence/
-- https://repository.upenn.edu/cgi/viewcontent.cgi?article=1212&context=wpel
+## [Taiwanese Language](./taiwanese-lang)
 
 ## Transit
 
