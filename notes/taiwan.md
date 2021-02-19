@@ -9,6 +9,7 @@
 - [Dictionary of Frequently Used Taiwan Minnan](https://twblg.dict.edu.tw/holodict_new/)
 - [Pokemon names in Taiwanese](https://itaigi.tw/tsu-te/pho-khi-bong)
 - [iTaiGi](https://itaigi.tw/) - Dictionary with audio pronounciations
+- http://ip194097.ntcu.edu.tw/memory/tgb/thak.asp?id=862&page=1
 
 ### Discourse
 
