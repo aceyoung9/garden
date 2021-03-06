@@ -10,6 +10,7 @@ title: Face Masks
   - [How to Draft](https://gwenstellamade.com/hybrid-face-mask-noprint/)
   - [Takeaways Blogpost](https://gwenstellamade.com/diy-cloth-mask-everything-i-learnt/)
 - [Dhurata Davies Pattern](https://dhuratadavies.com/blogs/things-i-make-and-do/free-face-mask-pattern-and-tutorial)
+- [Thuy Phan's 3D Face Mask With Filter Pocket And Nose Wire](https://youtu.be/YmQpipa5me4)
 
 ## Materials
 
