@@ -4,7 +4,7 @@ layout: default
 
 # Hi
 
-I'm a front-end developer, painter, and bicycle enthusiast.
+I'm a front-end developer, painter, and bike mechanic.
 
 This is a haphazard collection of my internet bookmarks and other notes.
 
