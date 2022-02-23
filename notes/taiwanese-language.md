@@ -11,11 +11,11 @@ title: Taiwanese Language
 
 ### Intruductions and Context
 
-- [Taiwanese Hokkien (Tâi-Gí）](https://oftaiwan.org/taiwan-101/taiwanese-hokkien-taigi/) from Outreach for Taiwan
+- [Taiwanese Hokkien (Tâi-Gí)](https://oftaiwan.org/taiwan-101/taiwanese-hokkien-taigi/) from Outreach for Taiwan
 
 ### Romantization
 
-https://islandfolklore.com/writing-the-taiwanese-language/
+- [Writing the Taiwanese Language: The POJ Story](https://islandfolklore.com/writing-the-taiwanese-language/) from Island Folklore.
 
 ### Discourse
 

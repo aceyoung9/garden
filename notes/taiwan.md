@@ -28,7 +28,9 @@
 - [Taipei MRT Station Stamps](https://english.metro.taipei/News.aspx?n=75C527310DFF7F7A&sms=0E5388E2903027D5)
   - [Taipei Stamps](https://the-sia-brat.com/2015/12/25/taipei-stamps/) by SIA brat
 
-## The Duck
+### The Duck
 
 - [The best news clip of all time (中文)](https://youtu.be/JLy_Qj_J1XU)
   - Traywick, C. A. (2013, November 1). Taiwanese Official Calls for Moment of Silence After Earthquake Kills Giant Rubber Duck. _Foreign Policy_. Retrieved December 9, 2020, from https://foreignpolicy.com/2013/11/01/taiwanese-official-calls-for-moment-of-silence-after-earthquake-kills-giant-rubber-duck/
+
+See also: [[mandarin]]
