@@ -21,3 +21,7 @@ title: Taiwanese Language
 
 - https://ketagalanmedia.com/2019/08/27/as-taiwans-identity-shifts-can-the-taiwanese-language-return-to-prominence/
 - https://repository.upenn.edu/cgi/viewcontent.cgi?article=1212&context=wpel
+
+### Memes
+
+- https://international.thenewslens.com/article/146819
