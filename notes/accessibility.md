@@ -14,6 +14,13 @@ AKA: List of lists, other people's lists.
 
 - [Eightshapes Contrast Grid](https://contrast-grid.eightshapes.com/)
 
+### Focus States
+
+- [A guide to designing accessible, WCAG-compliant focus indicators](https://www.sarasoueidan.com/blog/focus-indicators/) by Sara Soueidan
+  - Has a really thorough explanation of contrast requirements for focus states!
+- [Designing for Accessibility: Focus States](https://dockyard.com/blog/2020/04/28/designing-for-accessibility-focus-states) by Kara Black
+  - Animated examples of successful and insufficient focus states
+
 ### Form Patterns
 
 - [a11y Styled Form Controls](https://scottaohara.github.io/a11y_styled_form_controls/) by Scott O'hara
