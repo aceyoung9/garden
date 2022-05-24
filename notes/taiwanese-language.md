@@ -24,4 +24,4 @@ title: Taiwanese Language
 
 ### Memes
 
-- https://international.thenewslens.com/article/146819
+- [What Does a Trending T-shirt Say About Taiwanese Identity and Politics?](https://international.thenewslens.com/article/146819) by Brian Hioe. _The News Lens_
