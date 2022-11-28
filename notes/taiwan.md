@@ -9,8 +9,8 @@
 ## Transit
 
 - A map of all transit systems of Taiwan, merged into a single diagram. Created by [Himawari Design Lab](https://47rail.jp)
-  - [PDF](https://47rail.jp/data/routemap_taiwan_202011a.pdf)
-  - [List of all their maps](https://47rail.jp/routemap.html)
+  - [PDF](https://47rail.jp/dl/maps/routemap_taiwan_202210.pdf)
+  - [List of all their maps](https://47rail.jp/dl/index.html)
 
 ### Train Museums
 
