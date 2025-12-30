@@ -9,6 +9,7 @@ title: Taiwanese Language
 - [iTaiGi](https://itaigi.tw/) - Dictionary with audio pronounciations
 - [Basic Vocabulary for Colloquial Taiwanese eBook](http://ip194097.ntcu.edu.tw/memory/tgb/thak.asp?id=862&page=1) by Ko Chek-hòan, Tân Pang-tìn
 - [Resources for Learning Taiwanese as an English Speaker](https://docs.google.com/document/d/1F5-h_y6pvN6jls3WKl5VcZ6gqeAJBOaOpQssOC9SipU/edit) - compiled by Catherine Chou
+- [芋圓字典 Taro Dictionary](https://portaly.cc/taro.dict) - App for Learning Taiwanese
 
 ### Intruductions and Context
 
