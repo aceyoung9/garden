@@ -45,9 +45,10 @@ module.exports = {
 
       // Search each note for backlinks
       return notes
-        .filter((n) => {
+        .filter(async (n) => {
+          const inputContent = await n.template.inputContent;
           // Only fetch backlinks
-          const noteContent = stripYaml(n.template.inputContent);
+          const noteContent = stripYaml(inputContent);
 
           // This regex finds all wikilinks in the note
           const linksInNote = (
