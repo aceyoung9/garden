@@ -1,5 +1,6 @@
 ---
 layout: default
+eleventyExcludeFromCollections: true
 title: About
 ---
 

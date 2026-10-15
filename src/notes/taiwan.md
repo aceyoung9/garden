@@ -4,7 +4,7 @@
 
 - [《原轉會各民族代表：台灣原住民族致中國習近平主席》鄉民英譯版 Indigenous Peoples of Taiwan to President Xi Jinping of China](https://g0v.hackmd.io/@chihao/SyKTh6bM4)
 
-## [[Taiwanese Language]]
+## [Taiwanese Language](../taiwanese-language)
 
 ## Transit
 

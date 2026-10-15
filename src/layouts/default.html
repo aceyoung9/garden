@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    {% include "../_includes/head.html" %}
+    {% include 'head.html' %}
   </head>
   <body>
     <header class="page-header">
@@ -11,21 +11,16 @@
 
       <nav>
         <a href="/">Home</a>
-        <a href="/about">About</a>
+        <a href="/about">About Me</a>
         <a href="/notes">Notes</a>
       </nav>
     </header>
     <main>
-      {{content}}
+      {{ content }}
     </main>
 
     <footer class="page-footer">
-      <small>
-        Copyright {{site.author}}.
-        <a href="https://github.com/aceyoung9/garden">
-          GitHub Repo
-        </a>
-      </small>
+      <small>Copyright {{ site.author }}</small>
     </footer>
   </body>
 </html>

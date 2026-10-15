@@ -1,10 +1,10 @@
 <hr />
 <p class="backlinks-title larger">Backlinks</p>
-{% if backlinks.length > 0%}
+{% if backlinks.length > 0 %}
 <ul class="backlinks-container">
   {% for link in backlinks %}
   <li class="backlink">
-    <a href="{{link.url}}" class="backlink__link">{{link.title}}</a>
+    <a href="{{link.url}}" class="backlink__link">{{ link.title }}</a>
   </li>
   {% endfor %}
 </ul>

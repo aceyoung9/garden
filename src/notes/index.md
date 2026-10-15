@@ -1,5 +1,5 @@
 ---
-title: About these notes
+eleventyExcludeFromCollections: true
 layout: notes-index
 ---
 

@@ -1,0 +1,9 @@
+<ul class="backlinks-container">
+  {%- for link in collections.allNotes -%}
+  <li class="backlink">
+    <a href="{{ link.page.url }}" class="backlink__link"
+      >{{ link.data.title }}</a
+    >
+  </li>
+  {%- endfor -%}
+</ul>

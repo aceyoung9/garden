@@ -16,16 +16,18 @@
     "digital garden",
     "eleventy"
   ],
+  "type": "module",
   "license": "MIT",
   "homepage": "https://garden.aceyoung.online/",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^3.1.6",
     "@kwvanderlinde/markdown-it-wikilinks": "^1.0.2",
+    "eleventy-plugin-backlinks": "^1.0.0",
     "gh-pages": "^3.1.0",
-    "markdown-it": "^12.3.2",
-    "markdown-it-attrs": "^4.1.6",
-    "markdown-it-footnote": "^3.0.2",
+    "markdown-it": "^14.3.0",
+    "markdown-it-attrs": "^5.0.0",
+    "markdown-it-footnote": "^4.0.0",
     "prettier": "2.0.5",
-    "title-case": "^3.0.2"
+    "title-case": "^4.3.2"
   }
 }
